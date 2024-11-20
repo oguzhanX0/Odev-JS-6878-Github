@@ -19,8 +19,8 @@
 }
 
 .london{
+    background-color: rgb(230, 226, 226);
     font-size: 33px;
-    background-color: rgb(192, 196, 196);
     color: black;
     border:0;
 }
@@ -31,6 +31,7 @@
     width: 125px;
     text-align: left;
 }
+
 
 .paris{
     font-size: 33px;
@@ -108,5 +109,20 @@
     padding-left: 10px;
 }
 
+.selected1{
+    background-color: rgb(198, 203, 204);
+    width: 125px;
+    color: blue;
+}
 
+.selected2{
+    background-color: rgb(198, 203, 204);
+    width: 90px;
+    color: blue;
+}
 
+.selected3{
+    background-color: rgb(198, 203, 204);
+    width: 100px;
+    color: blue;
+}
